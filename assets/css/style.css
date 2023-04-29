@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+.ff_poppins{
+    font-family: 'poppins';
+}
+
+.fw_600{
+    font-weight: 600;
+}
+.fw_400{
+    font-weight: 400;
+}
+
+.bg_color{
+    background-color: #FFF7F4;;
+}
+
+.f_color{
+color: orangered;
+}
+.fs_16{
+    font-size: 16px;
+}
+
+.fs_59{
+    font-size: 59px;
+}
+
+.pt_30{
+    padding-top: 30px;
+}
+
+.pre_btn{
+    width: 50px;
+    height: 50px;
+    border: 1px solid #373737;
+    border-radius: 50%;
+    background-color: #FFF7F4;
+    position: absolute;
+    top: 60%;
+    left: -5%;
+}
+
+.next_btn {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #373737;
+    border-radius: 50%;
+    background-color: #FFF7F4;
+    position: absolute;
+    top: 60%;
+    right: -5%;
+}
+
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+}
